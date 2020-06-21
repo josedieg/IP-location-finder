@@ -8,4 +8,4 @@ Projeto consiste na geração de classes do webservice [wsgeoip](http://wsgeoip.
 
 ### xjc
 
-**xjc** ggera classes java de uma maneira simples,  bastando passar os parâmetros  que lhe for necessário. A lista de funcionalidades pode ser encontradas em xjc -help
+**xjc** gera classes java de uma maneira simples,  bastando passar os parâmetros  que lhe for necessário. A lista de funcionalidades pode ser encontradas em xjc -help
